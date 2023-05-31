@@ -1,7 +1,7 @@
 
 
 Postgram is a social media where you can post images and chat with your friends.
-I've used three Firebase features Auth (for authentication users), Firestore (for creating data and retrieve them, and also for chatting feature), Storage (for uploading profile pictures and posts).
+I've used three Firebase features : Auth (for authentication users), Firestore (for creating data and retrieve them, and also for chatting feature), Storage (for uploading profile pictures and posts).
 
 
 # Preview
