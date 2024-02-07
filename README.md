@@ -6,7 +6,7 @@ I've used three Firebase features : Auth (for authentication users), Firestore (
 
 # Preview
 
-![App Screenshot](https://i.hizliresim.com/8w5q0uj.jpg)
+![App Screenshot](https://i.hizliresim.com/fws0k4z.png)
 
 
 
